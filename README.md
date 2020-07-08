@@ -1,4 +1,6 @@
 # Deep-Learning-Specialization
+<div align="center">
+ ![Component 8](https://www.ibm.com/blogs/watson/wp-content/uploads/2019/05/GettyImages-1080367616.jpg)
 
 ## Introduction 
 
