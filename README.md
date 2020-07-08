@@ -13,6 +13,8 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
 
+</div>
+
 ## Programming Assignments
  - Course 1 - Neural Networks and Deep Learning
     - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Programming%20Assignments/Week-2.ipynb)
