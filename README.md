@@ -9,7 +9,7 @@
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. This specialization will help you become good at Deep Learning.
 
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which they'll teach.
 
 AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
 
@@ -51,7 +51,7 @@ AI is transforming multiple industries. After finishing this specialization, you
     - [Week 3 - PA 2 - Trigger word detection](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Sequence%20Models/Programming%20assignments/Week%203/2/trigger%20words.ipynb)
    
 ## Quiz Solutions
-**Note** - To see the solutions clone the repository and open the HTML.
+**Note** - To see the solutions, clone the repository and open the HTML file.
  - Course 1 - Neural Networks and Deep Learning
     - [Week 1 Quiz - Introduction to deep learning]
     - [Week 2 Quiz - Neural Network Basics]
