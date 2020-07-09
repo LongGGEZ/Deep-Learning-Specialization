@@ -52,28 +52,31 @@ AI is transforming multiple industries. After finishing this specialization, you
    
 ## Quiz Solutions
 **Note** - To see the solutions, clone the repository and open the HTML file.
+
  - Course 1 - Neural Networks and Deep Learning
-    - [Week 1 Quiz - Introduction to deep learning]
-    - [Week 2 Quiz - Neural Network Basics]
-    - [Week 3 Quiz - Shallow Neural Networks]
-    - [Week 4 Quiz - Key concepts on Deep Neural Networks]
+    - [Week 1 Quiz - Introduction to deep learning](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Quizzes/Introduction%20to%20deep%20learning.html)
+    - [Week 2 Quiz - Neural Network Basics](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Quizzes/Neural%20Network%20Basics.html)
+    - [Week 3 Quiz - Shallow Neural Networks](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Quizzes/Shallow%20Neural%20Networks.html)
+    - [Week 4 Quiz - Key concepts on Deep Neural Networks](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Neural%20Networks%20and%20Deep%20Learning/Quizzes/Key%20concepts%20on%20Deep%20Neural%20Networks.html)
     
  - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization 
-    - [Week 1 Quiz - Practical aspects of deep learning]
-    - [Week 2 Quiz - Optimization algorithms]
-    - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks]
+    - [Week 1 Quiz - Practical aspects of deep learning](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks/Quizzes/Practical%20Aspects%20of%20Deep%20Learning.html)
+    - [Week 2 Quiz - Optimization algorithms](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks/Quizzes/Optimization%20Algorithms.html)
+    - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks/Quizzes/Hyperparameter%20Tuning%2C%20Batch%20Normalization%2C%20Programming%20Frameworks.html)
     
  - Course 3: Structuring Machine Learning Projects
-    - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)]
-    - [Week 2 Quiz - Autonomous driving (case study)]
+    - [Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/Quizzes/Bird%20recognition%20in%20the%20city%20of%20Peacetopia_case-study.html)
+    - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Structuring%20Machine%20Learning%20Projects/Quizzes/Autonomous%20driving_case-study.html)
     
  - Course 4: Convolutional Neural Networks
-    - [Week 1 - The basics of ConvNets]
-    - [Week 2 - Deep convolutional models]
-    - [Week 3 - Detection algorithms]
-    - [Week 4 - Special applications: Face recognition & Neural style transfer]
+    - [Week 1 - The basics of ConvNets](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Quizzes/The%20basics%20of%20ConvNets.html)
+    - [Week 2 - Deep convolutional models](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Quizzes/Deep%20convolutional%20models.html)
+    - [Week 3 - Detection algorithms](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Quizzes/Detection%20algorithms.html)
+    - [Week 4 - Special applications: Face recognition & Neural style transfer](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Convolutional%20Neural%20Networks/Quizzes/Special%20applications_%20Face%20recognition%20%26%20Neural%20style%20transfer.html)
+
  - Course 5: Sequence Models
-    - [Week 1 - Recurrent neural networks]
-    - [Week 2 - Natural Language Processing & Word Embeddings]
-    - [Week 3 - Sequence models and Attention mechanisms]
+    - [Week 1 - Recurrent neural networks](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Sequence%20Models/Quizzes/Recurrent%20Neural%20Networks.html)
+    - [Week 2 - Natural Language Processing & Word Embeddings](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Sequence%20Models/Quizzes/Natural%20Language%20Processing%20%26%20Word%20Embeddings.html)
+    - [Week 3 - Sequence models and Attention mechanisms](https://github.com/zerefdraggy24/Deep-Learning-Specialization/blob/master/Sequence%20Models/Quizzes/Sequence%20models%20%26%20Attention%20mechanism%20.html)
+
 
